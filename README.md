@@ -1,6 +1,7 @@
 # Fit Studio — Лендинг фитнес-клуба
 
 Лендинг для фитнес-клуба с новостным блоком, секцией тренеров и блоком FAQ.
+Проект реализован для портфолио сайта [bozheslav.ru](https://bozheslav.ru) — [GitHub](https://github.com/Magbusjap/bozheslav.ru).
 
 ![Превью](assets/Preview%20Double%20Lending%20Fit%20Studio.png)
 
@@ -24,3 +25,7 @@
 - Accordion (FAQ) на чистом CSS
 - Шапка с телефоном и акционным баннером
 - Подвал с навигацией
+
+---
+
+<img src="https://bozheslav.ru/storage/media/mikhail-bozheslav-favicon.png" width="32" height="32" alt="bozheslav.ru favicon"> [Михаил Божеслав](https://bozheslav.ru)
