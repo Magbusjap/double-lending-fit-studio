@@ -28,4 +28,4 @@
 
 ---
 
-<img src="https://bozheslav.ru/storage/media/mikhail-bozheslav-favicon.png" width="32" height="32" alt="bozheslav.ru favicon"> [Михаил Божеслав](https://bozheslav.ru)
+<img src="https://bozheslav.ru/storage/media/mikgail-bozheslav-favicon-16x16.png" width="16" height="16" alt="bozheslav.ru favicon"> [Михаил Божеслав](https://bozheslav.ru)
