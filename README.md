@@ -1,10 +1,12 @@
 # Fit Studio — Лендинг фитнес-клуба
 
-Учебный проект по вёрстке. Лендинг для фитнес-клуба с новостным блоком, секцией тренеров и блоком FAQ.
+Лендинг для фитнес-клуба с новостным блоком, секцией тренеров и блоком FAQ.
+
+![Превью](assets/Preview%20Double%20Lending%20Fit%20Studio.png)
 
 ## 🔗 Live Demo
 
-[Открыть демо](https://magbusjap.github.io/homework/108_homework_BEM/index.html)
+[Открыть демо](https://bozheslav.ru/portfolio/double-lending-fit-studio/)
 
 ## Стек
 
