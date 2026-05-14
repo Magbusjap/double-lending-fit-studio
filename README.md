@@ -1,13 +1,13 @@
 # Fit Studio — Лендинг фитнес-клуба
 
 Лендинг для фитнес-клуба с новостным блоком, секцией тренеров и блоком FAQ.
-Проект реализован для портфолио сайта [bozheslav.ru](https://bozheslav.ru) — [GitHub](https://github.com/Magbusjap/bozheslav.ru).
+Проект реализован для портфолио сайта [bozheslav.com](https://bozheslav.com) — [GitHub](https://github.com/Magbusjap/bozheslav).
 
 ![Превью](assets/Preview%20Double%20Lending%20Fit%20Studio.png)
 
 ## 🔗 Live Demo
 
-[Открыть демо](https://bozheslav.ru/portfolio/double-lending-fit-studio/)
+[Открыть демо](https://bozheslav.com/portfolio/double-lending-fit-studio/)
 
 ## Стек
 
@@ -28,4 +28,4 @@
 
 ---
 
-<img src="https://bozheslav.ru/storage/media/mikgail-bozheslav-favicon-16x16.png" width="16" height="16" alt="bozheslav.ru favicon"> [Михаил Божеслав](https://bozheslav.ru)
+<img src="https://bozheslav.com/storage/media/mikgail-bozheslav-favicon-16x16.png" width="16" height="16" alt="bozheslav.com favicon"> [Михаил Божеслав](https://bozheslav.com)
